@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kiwigan
 - 👀 I’m interested in UI/UX devlopment, front-end programming
-- 🌱 I’m currently learning Figma & Andriod App Development
+- 🌱 I’m currently learning Figma & Android App Development
 - 📫 How to reach me JLEE285@e.ntu.edu.sg
 
 <!---
